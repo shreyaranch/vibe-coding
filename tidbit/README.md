@@ -6,9 +6,9 @@
 
 ## Launch video
 
-[![Tidbit launch video: a phone swiping through the Tidbit feed beside the line "Big stories. Small bites."](docs/launch-video.jpg)](docs/launch-video.mp4)
+https://github.com/user-attachments/assets/1bd4de6e-7a5f-4616-8aa0-a4cd15b5556b
 
-▶ [Watch the 20-second launch video](docs/launch-video.mp4) (with sound). Every publisher and story in it is fictional demo content.
+A 20-second tour of the app (with sound). Every publisher and story in it is fictional demo content. You can also [download the video](docs/launch-video.mp4).
 
 ## What's in Phase 1
 
