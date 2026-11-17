@@ -4,6 +4,12 @@
 
 > All publishers, towns, people and stories in this build are **fictional demo content**, and every one is labelled "Demo" in the app. None of it is real news.
 
+## Launch video
+
+https://github.com/user-attachments/assets/1bd4de6e-7a5f-4616-8aa0-a4cd15b5556b
+
+A 20-second tour of the app (with sound). Every publisher and story in it is fictional demo content. You can also [download the video](docs/launch-video.mp4).
+
 ## What's in Phase 1
 
 - **Onboarding:** welcome screen, sign up / log in (email and password), interests, location (no GPS), publishers to follow, "what matters most", gesture tutorial
