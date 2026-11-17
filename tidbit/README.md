@@ -4,6 +4,12 @@
 
 > All publishers, towns, people and stories in this build are **fictional demo content**, and every one is labelled "Demo" in the app. None of it is real news.
 
+## Launch video
+
+[![Tidbit launch video: a phone swiping through the Tidbit feed beside the line "Big stories. Small bites."](docs/launch-video.jpg)](docs/launch-video.mp4)
+
+▶ [Watch the 20-second launch video](docs/launch-video.mp4) (with sound). Every publisher and story in it is fictional demo content.
+
 ## What's in Phase 1
 
 - **Onboarding:** welcome screen, sign up / log in (email and password), interests, location (no GPS), publishers to follow, "what matters most", gesture tutorial
