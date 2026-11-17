@@ -5,3 +5,4 @@ A collection of apps I've built with AI-assisted ("vibe") coding. Each app lives
 | App | What it is | Stack |
 | --- | --- | --- |
 | [Tidbit](tidbit/) | *Big stories. Small bites.* A mobile-first, TikTok-style news feed with verified publishers, polls, related coverage and a transparent recommendation algorithm. Uses fictional demo content. | React, TypeScript, Tailwind, Express, SQLite |
+| [TTC Transit App](ttc-transit/) | An MVP prototype of a mobile transit app made for the TTC: trip planning, step-by-step journeys, live tracking, real-time arrivals, payment and support chat. Built in Figma Make. Uses sample data. | React, TypeScript, Tailwind, Vite |
